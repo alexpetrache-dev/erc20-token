@@ -26,6 +26,8 @@ para demostrar comprension del estandar EIP-20.
 
 - Solidity `^0.8.24`
 - Desplegado y verificado en **Base** mainnet.
+- **Direccion:** `0x24fEb3F92531BaDd58Dd80e5D11b2E67a565a899`
+- **Explorer:** https://basescan.org/address/0x24fEb3F92531BaDd58Dd80e5D11b2E67a565a899
 
 ## Licencia
 
